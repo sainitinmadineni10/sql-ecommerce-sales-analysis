@@ -34,7 +34,8 @@ This project analyzes retail sales data using SQL to evaluate business performan
 - Product demand differs by region  
 
 ## 📂 Files
-- `analysis.sql` → Contains all SQL queries used for analysis  
+- `analysis.sql` → Contains all SQL queries used for analysis
+
 
 ## 🚀 Conclusion
 This project demonstrates the use of SQL for real-world business analysis, including identifying inefficiencies and providing data-driven insights.
